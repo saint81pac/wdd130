@@ -89,7 +89,7 @@ article {
     width: 100%;
     padding: 16px;
     text-align: center;
-    background-color: rgba(22, 48, 92, 0.75);
+    background-color: #16305c;
     color: #fff;
 }
 
@@ -100,7 +100,7 @@ article {
     right: 16px;
     margin: 0;
     padding: 12px;
-    background-color: rgba(22, 48, 92, 0.75);
+    background-color: #16305c;
     color: #fff;
     overflow: hidden;
 }
@@ -162,7 +162,7 @@ section h2 {
     height: 120px;
     object-fit: cover;
     border-radius: 6px;
-    box-shadow: 0 4px 12px rgba(27, 58, 107, 0.15);
+    box-shadow: 0 4px 12px #d6dbe3;
 }
 
 .adventure-grid figcaption {
